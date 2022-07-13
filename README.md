@@ -1,3 +1,3 @@
 # Trading-Game-simulation
-Simple python project
+My simple python project 
 1. Learning Git with VS code
